@@ -32,19 +32,28 @@ There will be three types of users. Owner, Manager, and Shopkeeper. Shopkeeper c
 
 ## Screenshots
 ![Login Page](Screenshots/Login%20Page.png)
+*Login Page*
 ![Settings Page](Screenshots/Settings.png)
+*Settings Page*
 ### Owner
 ![Owner Dashboard](Screenshots/Owner%20Dashboard.png)
+*Owner Dashboard*
 ![Manage Managers](Screenshots/Manage%20Managers.png)
+*Manage Managers*
 ### Manager
 ![Manager Dashboard](Screenshots/Manager%20Dashboard.png)
+*Manager Dashboard*
 ![Manage Products](Screenshots/Manage%20Products.png)
+*Manage Products*
 ![Manage Shopkeepers](Screenshots/Manage%20Shopkeepers.png)
+*Manage Shopkeepers*
 ### Shopkeeper
 ![Order Place](Screenshots/Order%20Place.png)
+*Order Place*
 
 ## Team
 
  - [Avizit Roy](https://github.com/avizitRX)
  - [Md. Shohidul Islam](https://github.com/Shohidul203)
  - [Md. Ridoy Sarkar](https://github.com/Ridoy-Sarkar)
+ 
