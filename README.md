@@ -6,6 +6,7 @@ This program was made for a university project. This is not ready for any profes
 
 ## Features
 There will be three types of users. Owner, Manager, and Shopkeeper. Shopkeeper can sell products, and make bills. Manager can manage the products, and shopkeepers. He can view inventory and sales activity. Owner can manage the managers, and view sales activity. All users can edit their personal information.
+
 ### Owner
 
  - Manage Managers
@@ -26,45 +27,42 @@ There will be three types of users. Owner, Manager, and Shopkeeper. Shopkeeper c
  - Edit Personal Information
 
 ## Development
+
  - Visual Studio 2022
  - Microsoft SQL Server 2012
  - [Guna UI](https://gunaui.com)
 
 ## Screenshots
-![Login Page](Screenshots/Login%20Page.png)
 
 *Login Page*
-
-![Settings Page](Screenshots/Settings.png)
+![Login Page](Screenshots/Login%20Page.png)
 
 *Settings Page*
+![Settings Page](Screenshots/Settings.png)
 
 ### Owner
-![Owner Dashboard](Screenshots/Owner%20Dashboard.png)
 
 *Owner Dashboard*
-
-![Manage Managers](Screenshots/Manage%20Managers.png)
+![Owner Dashboard](Screenshots/Owner%20Dashboard.png)
 
 *Manage Managers*
+![Manage Managers](Screenshots/Manage%20Managers.png)
 
 ### Manager
-![Manager Dashboard](Screenshots/Manager%20Dashboard.png)
 
 *Manager Dashboard*
-
-![Manage Products](Screenshots/Manage%20Products.png)
+![Manager Dashboard](Screenshots/Manager%20Dashboard.png)
 
 *Manage Products*
-
-![Manage Shopkeepers](Screenshots/Manage%20Shopkeepers.png)
+![Manage Products](Screenshots/Manage%20Products.png)
 
 *Manage Shopkeepers*
+![Manage Shopkeepers](Screenshots/Manage%20Shopkeepers.png)
 
 ### Shopkeeper
-![Order Place](Screenshots/Order%20Place.png)
 
 *Order Place*
+![Order Place](Screenshots/Order%20Place.png)
 
 ## Team
 
