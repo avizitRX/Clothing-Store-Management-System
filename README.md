@@ -30,9 +30,21 @@ There will be three types of users. Owner, Manager, and Shopkeeper. Shopkeeper c
  - Microsoft SQL Server 2012
  - [Guna UI](https://gunaui.com)
 
+## Screenshots
+![Login Page](Screenshots/Login%20Page.png)
+![Settings Page](Screenshots/Settings.png)
+### Owner
+![Owner Dashboard](Screenshots/Owner%20Dashboard.png)
+![Manage Managers](Screenshots/Manage%20Managers.png)
+### Manager
+![Manager Dashboard](Screenshots/Manager%20Dashboard.png)
+![Manage Products](Screenshots/Manage%20Products.png)
+![Manage Shopkeepers](Screenshots/Manage%20Shopkeepers.png)
+### Shopkeeper
+![Order Place](Screenshots/Order%20Place.png)
+
 ## Team
 
  - [Avizit Roy](https://github.com/avizitRX)
  - [Md. Shohidul Islam](https://github.com/Shohidul203)
  - [Md. Ridoy Sarkar](https://github.com/Ridoy-Sarkar)
-
